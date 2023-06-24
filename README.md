@@ -1,2 +1,2 @@
 # Player-Detection-Using-CNN--PML-Project
-Player Detection using CNN model in Deep Learning
+Here I have Used Convolution Neural Network to detect the Indian cricketer using large dataset of face photos of multiple players.
